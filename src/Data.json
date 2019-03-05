@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Pacific Rim",
+        "tel":"0956789",
+        "Permission": 1
+    },
+    {
+        "id":2,
+        "name":"Iron Man",
+        "tel":"0956789",
+        "Permission": 2
+    },
+    {
+        "id":3,
+        "name":"Super Star",
+        "tel":"0956789",
+        "Permission": 3
+    },
+    {
+        "id":5,
+        "name":"Transformer",
+        "tel":"0956789",
+        "Permission": 1
+    }
+]
